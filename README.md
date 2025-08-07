@@ -1,10 +1,10 @@
 # PASSWORD-GENERATOR
 A Web based application designed to help users create strong, random and secure passwords for protecting their online accounts and sensitive information. The tool enables users to customize their passwords by selecting their criteria such as length, use of uppercase and lowercase letters, numbers and special characters.
 # DevelOper Information 
--**Developer**: P.Manasa
--**Roll No**: 222T1A3145
--**Institution**: Ashoka Womens Engineering College.
--**Academic Year**: 2024-2025
+- **Developer**: P.Manasa
+- **Roll No**: 222T1A3145
+- **Institution**: Ashoka Womens Engineering College.
+- **Academic Year**: 2024-2025
 # Secure Password Manager
 
 A simple, client-side password manager that allows users to generate secure passwords or create custom passwords with strength validation.
