@@ -4,7 +4,6 @@ A Web based application designed to help users create strong, random and secure 
 - **Developer**: P.Manasa
 - **Roll No**: 222T1A3145
 - **Institution**: Ashoka Womens Engineering College.
-- **Academic Year**: 2024-2025
 # Secure Password Manager
 
 A simple, client-side password manager that allows users to generate secure passwords or create custom passwords with strength validation.
