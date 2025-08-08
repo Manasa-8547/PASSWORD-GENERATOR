@@ -1,13 +1,11 @@
-# PASSWORD GENERATOR
+ # 🔐  Secure Password Generator
+
+A lightweight, client-side password manager and generator built with HTML, CSS, and JavaScript. Create strong passwords or generate secure ones instantly - all without storing any data on servers!
 
 # 👨‍💻 Developer Information 
 - **Developer**: P.Manasa
 - **Roll No**: 222T1A3145
 - **Institution**: Ashoka Womens Engineering College.
-
- # 🔐 Secure Password Manager
-
-A lightweight, client-side password manager and generator built with HTML, CSS, and JavaScript. Create strong passwords or generate secure ones instantly - all without storing any data on servers!
 
 ## 🌟 Features
 
